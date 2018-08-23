@@ -2,8 +2,11 @@
 ** cannot upload company code, but wanted to document my work anyway
 
 - used HTML/CSS/js/jquery to create a simple front end client to test company server.
-	handles GET, POST, PATCH, DELETE requests.
-	relevant technologies: axios, bootstrap
+	- handles GET, POST, PATCH, DELETE requests.
+	- because the main purpose was to test and familiarize myself with the server,
+		I simply opted to print response code, headers, and body.
+	- relevant technologies: axios, bootstrap
+	
 - tested and implemented js api libraries:
 	adminApi.min.js
 	userApi.min.js
