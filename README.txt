@@ -3,6 +3,7 @@
 
 - used HTML/CSS/js/jquery to create a simple front end client to test company server.
 	- handles GET, POST, PATCH, DELETE requests.
+	- handles sessions cookies
 	- because the main purpose was to test and familiarize myself with the server,
 		I simply opted to print response code, headers, and body.
 	- relevant technologies: axios, bootstrap
